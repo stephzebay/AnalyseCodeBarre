@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+scripts
+exo.py
+test.py
+pyvenv.cfg
+venv/
+__pycache__/
+journal_erreurs.log
+lib
